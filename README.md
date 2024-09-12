@@ -1,4 +1,4 @@
-# f1tenth2.0_sim
+# 2.0tenth_sim
 A simulator for the 2.0 Tenth platform using the new Gazebo sim. 
 
 ## ROS2 Build
